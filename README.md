@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesona Wisata Religi di Pekalongan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Pesona Wisata Religi di Pekalongan</h1>
+        <p>Temukan keindahan dan kedamaian wisata religi di Pekalongan.</p>
+        <a href="#explore" class="btn">Jelajahi Sekarang</a>
+    </header>
+
+    <section id="explore" class="content">
+        <h2>Wisata Religi Unggulan</h2>
+        <div class="destination">
+            <img src="Masjid.jpg" alt="Masjid Agung Pekalongan">
+            <h3>Masjid Agung Pekalongan</h3>
+            <p>Masjid Agung Pekalongan adalah tempat ibadah yang memiliki arsitektur megah dan menjadi pusat kegiatan keagamaan di Pekalongan.</p>
+        </div>
+        <div class="destination">
+            <img src="Makam.jpg" alt="Makam Wali">
+            <h3>Makam Wali Sapuro</h3>
+            <p>Makam Sapuro di Pekalongan adalah tempat ziarah yang banyak dikunjungi untuk menghormati para wali penyebar Islam di Pekalongan.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Pesona Wisata Religi di Pekalongan. All rights reserved.</p>
+    </footer>
+</body>
+</html>
